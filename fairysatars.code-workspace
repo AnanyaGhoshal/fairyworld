@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "sound",
+			"path": "..\\fairyworld\\sound"
+		},
+		{
+			"name": "images",
+			"path": "..\\fairyworld\\images"
+		}
+	]
+}
